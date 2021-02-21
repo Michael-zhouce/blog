@@ -1,0 +1,49 @@
+INFO 2021-02-21 15:47:12,265 autoreload 598 Watching for file changes with StatReloader
+INFO 2021-02-21 15:47:16,298 basehttp 157 "GET / HTTP/1.1" 200 4
+INFO 2021-02-21 17:46:15,715 autoreload 598 Watching for file changes with StatReloader
+INFO 2021-02-21 17:46:19,291 basehttp 157 "GET / HTTP/1.1" 200 4
+INFO 2021-02-21 18:14:41,871 autoreload 222 D:\Project\blog\blog_f\blog_f\urls.py changed, reloading.
+INFO 2021-02-21 18:14:43,095 autoreload 598 Watching for file changes with StatReloader
+INFO 2021-02-21 18:15:03,736 autoreload 222 D:\Project\blog\blog_f\blog_f\urls.py changed, reloading.
+INFO 2021-02-21 18:15:04,953 autoreload 598 Watching for file changes with StatReloader
+INFO 2021-02-21 18:15:06,399 autoreload 222 D:\Project\blog\blog_f\blog_f\urls.py changed, reloading.
+INFO 2021-02-21 18:15:07,540 autoreload 598 Watching for file changes with StatReloader
+INFO 2021-02-21 18:15:12,591 autoreload 222 D:\Project\blog\blog_f\blog_f\urls.py changed, reloading.
+INFO 2021-02-21 18:15:13,971 autoreload 598 Watching for file changes with StatReloader
+INFO 2021-02-21 18:15:28,641 autoreload 222 D:\Project\blog\blog_f\blog_f\urls.py changed, reloading.
+INFO 2021-02-21 18:15:29,885 autoreload 598 Watching for file changes with StatReloader
+INFO 2021-02-21 18:15:36,089 autoreload 222 D:\Project\blog\blog_f\blog_f\urls.py changed, reloading.
+INFO 2021-02-21 18:15:37,259 autoreload 598 Watching for file changes with StatReloader
+INFO 2021-02-21 18:15:38,793 autoreload 222 D:\Project\blog\blog_f\blog_f\urls.py changed, reloading.
+INFO 2021-02-21 18:15:39,962 autoreload 598 Watching for file changes with StatReloader
+INFO 2021-02-21 18:15:49,751 autoreload 222 D:\Project\blog\blog_f\blog_f\urls.py changed, reloading.
+INFO 2021-02-21 18:15:50,911 autoreload 598 Watching for file changes with StatReloader
+INFO 2021-02-21 18:15:56,079 autoreload 222 D:\Project\blog\blog_f\blog_f\urls.py changed, reloading.
+INFO 2021-02-21 18:15:57,268 autoreload 598 Watching for file changes with StatReloader
+INFO 2021-02-21 18:16:03,666 autoreload 222 D:\Project\blog\blog_f\blog_f\urls.py changed, reloading.
+INFO 2021-02-21 18:16:04,900 autoreload 598 Watching for file changes with StatReloader
+INFO 2021-02-21 18:16:10,112 autoreload 222 D:\Project\blog\blog_f\blog_f\urls.py changed, reloading.
+INFO 2021-02-21 18:16:11,183 autoreload 598 Watching for file changes with StatReloader
+INFO 2021-02-21 18:16:32,694 autoreload 598 Watching for file changes with StatReloader
+INFO 2021-02-21 18:17:34,837 urls 24 info
+INFO 2021-02-21 18:17:34,839 basehttp 157 "GET / HTTP/1.1" 200 4
+INFO 2021-02-21 18:17:36,420 urls 24 info
+INFO 2021-02-21 18:17:36,421 basehttp 157 "GET / HTTP/1.1" 200 4
+INFO 2021-02-21 18:21:12,555 autoreload 222 D:\Project\blog\blog_f\blog_f\settings.py changed, reloading.
+INFO 2021-02-21 18:21:13,685 autoreload 598 Watching for file changes with StatReloader
+INFO 2021-02-21 18:21:20,494 autoreload 598 Watching for file changes with StatReloader
+INFO 2021-02-21 18:21:22,405 urls 24 info
+INFO 2021-02-21 18:21:22,423 basehttp 157 "GET / HTTP/1.1" 200 4
+INFO 2021-02-21 18:21:30,388 basehttp 157 "GET /static/index.html HTTP/1.1" 200 12002
+INFO 2021-02-21 18:21:30,406 basehttp 157 "GET /static/md_css/monokai.css HTTP/1.1" 200 4118
+INFO 2021-02-21 18:21:30,408 basehttp 157 "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140942
+INFO 2021-02-21 18:21:30,433 basehttp 157 "GET /static/common/jquery.pagination.css HTTP/1.1" 200 523
+INFO 2021-02-21 18:21:30,434 basehttp 157 "GET /static/common/common.css HTTP/1.1" 200 381
+INFO 2021-02-21 18:21:30,447 basehttp 157 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2021-02-21 18:21:30,450 basehttp 157 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2021-02-21 18:21:30,453 basehttp 157 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97163
+INFO 2021-02-21 18:21:30,456 basehttp 157 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2021-02-21 18:21:30,457 basehttp 157 "GET /static/img/1.jpg HTTP/1.1" 200 78682
+INFO 2021-02-21 18:21:30,457 basehttp 157 "GET /static/js/jquery.pagination.min.js HTTP/1.1" 200 2935
+INFO 2021-02-21 18:21:30,461 basehttp 157 "GET /static/js/index.js HTTP/1.1" 200 530
+INFO 2021-02-21 18:21:30,465 basehttp 157 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
